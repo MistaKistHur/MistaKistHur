@@ -26,9 +26,9 @@
       Cornwall or Southampton Near Where my Family Are.
 </span>
 
-🌴🌳Facebook Page🌳🌴         => 💎https://www.facebook.com/OpenSourceProjectz💎
-🌴🌳Facebook Group🌳🌴        => 💎https://www.facebook.com/groups/art4coding.icu💎
-🌴🌳My DeviantArt Account🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎
+🌴🌳Facebook Page🌳🌴         => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
+🌴🌳Facebook Group🌳🌴        => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
+🌴🌳My DeviantArt Account🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 
 
 🎓👨🏽‍💻  💻🦟 🦗 🕷 🕸🌳🌴 🌱☕️🍺 🍻💎 ⚖️ 
