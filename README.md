@@ -28,12 +28,14 @@
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
 
+🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
 🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
-🌴🌳My DeviantArt Account🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+
 </div>
 
-🎓👨🏽‍💻  💻🦟 🦗 🕷 🕸🌳🌴 🌱☕️🍺 🍻💎 ⚖️ 
+🌴🌳💎🍺 ⚖️🎓👨🏽‍💻  💻🦟 🦗 🕷 🕸 🌱☕️🍻  
 <!--
 **MistaKistHur/MistaKistHur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   Here are some ideas to get you started:
