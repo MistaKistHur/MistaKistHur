@@ -8,18 +8,18 @@
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
       <br>
 </span>
-      ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
+  ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span>
    Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
    in student loans associated with it, even though it would have been a good experience<br>
    Travelling was a whole experience in itself.<br>
         <br>
 </span> 
-       ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/Jwf. experimental.png)  
-  
+  ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
+<span>  
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
   like to learn P5, D3, Gsap, Python & Ruby on Rails</span> 
-
+</span> 
 
 Facebook Page => https://www.facebook.com/OpenSourceProjectz
 Facebook Group => https://www.facebook.com/groups/art4coding.icu
