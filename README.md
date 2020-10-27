@@ -5,7 +5,8 @@
 
 <span align="center">My Names Tao & I Live in Norwich in the <img src="/Rsc/english.gif" alt="english flag">.United Kingdom.<img src="/Rsc/english.gif" alt="english flag">..</span>
 <br>
-<span>I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
+<span>
+      I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
       Had Other interest's & different life circumstance back then<br>
       Tried to Get into University to Study Art Straight after college but didn't get Accepted<br>
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
@@ -19,7 +20,11 @@
    in student loans associated with it, even though it would have been a good experience<br>
    Travelling was a whole experience in itself.<br>
         <br>
-</span> 
+</span>
+<span>
+      The Technologies Have advanced alot since then, being nearly 20 years Ago<br>
+      & its opened up alot of new possibiltys of what can be achieved.
+</span>
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
 <span align="center">  
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
