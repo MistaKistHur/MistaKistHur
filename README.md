@@ -7,6 +7,7 @@
       Tried to Get into University to Study Art Straight after college but didn't get Accepted<br>
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
       <br>
+      ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
       Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
       in student loans associated with it, even though it would have been a good experience<br>
       Travelling was a whole experience in itself.<br>
