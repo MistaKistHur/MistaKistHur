@@ -19,7 +19,7 @@
       <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <span align="center">
       Kind of glad that I did not get Accepted into University,<br><i>Because of the Huge ammount of debt
-      in student loans associated with it, even though it would have been a good experience<br>
+      in student loans associated with it,<br> even though it would have been a good experience<br>
       Travelling was a whole experience in itself.</i><br>
       <br>
 </span>
@@ -27,7 +27,9 @@
       The Technologies Have advanced alot since then, being nearly 20 years Ago<br>
       & its opened up alot of new possibiltys of what can be achieved.
 </span>
+      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="" height=""/>
       ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)
+      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="" height=""/>
 <span align="center">
       am Currently Trying to Learn Vanilla Javascript & Would Also<br>
       like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
