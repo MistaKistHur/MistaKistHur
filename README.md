@@ -1,3 +1,4 @@
+<div align="center">
 ### 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻  
 
 <span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
@@ -26,10 +27,10 @@
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
 
-🌴🌳Facebook Page🌳🌴&nbsp&nbsp&nbsp=> 💎https://www.facebook.com/OpenSourceProjectz💎<br>
-🌴🌳Facebook Group🌳🌴&nbsp&nbsp&nbsp=> 💎https://www.facebook.com/groups/art4coding.icu💎<br>
+🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
+🌴🌳Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
 🌴🌳My DeviantArt Account🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
-
+</div>
 
 🎓👨🏽‍💻  💻🦟 🦗 🕷 🕸🌳🌴 🌱☕️🍺 🍻💎 ⚖️ 
 <!--
