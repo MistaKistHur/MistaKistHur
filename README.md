@@ -27,9 +27,9 @@
       The Technologies Have advanced alot since then, being nearly 20 years Ago<br>
       & its opened up alot of new possibiltys of what can be achieved.
 </span>
-      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="" height=""/>
+      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="100%" height="24"/>
       ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)
-      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="" height=""/>
+      <img src="/Rsc/PinkTealNavBarV2.Jpg" alt="" width="100%" height="28"/>
 <span align="center">
       am Currently Trying to Learn Vanilla Javascript & Would Also<br>
       like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
@@ -42,9 +42,9 @@
 
 </span><br>
 <span align="center">
-      My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
+      <i>My Main Goals for 2020/21/22 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
       or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br>
-      Cornwall or Southampton Near Where my Family Are.<br>
+            Cornwall or Southampton Near Where my Family Are.</i><br>
 </span><br>
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
@@ -61,6 +61,7 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f2e1ba23-b310-4d0e-9add-72a5948f841d/d4fvrce-7966a410-898e-489d-a836-9dab7e84e8ff.gif"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34ce505e-bb08-436c-9116-f92a5f14df3b/d4ilw6o-fb0bab0b-8050-4fde-aa98-68f8d90d24b5.gif"/><br>
        💬 Ask me about ... Collaboration.
+       📫 How to reach me ::>> You Can Message me on Facebook or Contact me on Linkdin.
 </div>
 
 🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
