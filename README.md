@@ -3,7 +3,7 @@
       <h1> 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻</h1>
  
 
-<span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
+<span align="center">My Names Tao & I Live in Norwich in the United Kingdom<img src="/Rsc/english.gif" alt="english flag">.</span>
 <br>
 <span>I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
       Had Other interest's & different life circumstance back then<br>
