@@ -12,58 +12,54 @@
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
       <br>
 </span>
-<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto">
+<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto"><br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
-  ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
+      ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span align="center">
-   Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
-   in student loans associated with it, even though it would have been a good experience<br>
-   Travelling was a whole experience in itself.<br>
-        <br>
+      Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
+      in student loans associated with it, even though it would have been a good experience<br>
+      Travelling was a whole experience in itself.<br>
+      <br>
 </span>
 <span>
       The Technologies Have advanced alot since then, being nearly 20 years Ago<br>
       & its opened up alot of new possibiltys of what can be achieved.
 </span>
-  ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
-<span align="center">  
-  am Currently Trying to Learn Vanilla Javascript & Would Also<br>
-  like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
+      ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)
+<span align="center">
+      am Currently Trying to Learn Vanilla Javascript & Would Also<br>
+      like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
 
-<img src="/Rsc/javascript-node-js.png" width="auto" height="128" alt="Node.js Icon Logo"/><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ed180b9b-84ae-4dc0-8bff-3d3a267ba0f0/d7wgczt-d5da379f-9054-41c9-9936-b4d65ff2fa4d.gif"/>
-<img src="https://greensock.com/uploads/set_resources_4/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" width="248" height="auto"/><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ed180b9b-84ae-4dc0-8bff-3d3a267ba0f0/d7wgczt-d5da379f-9054-41c9-9936-b4d65ff2fa4d.gif"/>
+<img src="/Rsc/javascript-node-js.png" width="auto" height="128" alt="Node.js Icon Logo"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ed180b9b-84ae-4dc0-8bff-3d3a267ba0f0/d7wgczt-d5da379f-9054-41c9-9936-b4d65ff2fa4d.gif"/>
+<img src="https://greensock.com/uploads/set_resources_4/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" width="248" height="auto"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ed180b9b-84ae-4dc0-8bff-3d3a267ba0f0/d7wgczt-d5da379f-9054-41c9-9936-b4d65ff2fa4d.gif"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="auto" height="98"/>
 
-<!--
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-red.svg" />
- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png     
- -->    
-      
-      
-      
 </span><br>
 <span align="center">
-  My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
-  or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br> 
+      My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
+      or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br>
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
-🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
-🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
-🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
-🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
-🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
-🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+     🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
+     🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
+     🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
+     🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
+     🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
+     🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f2e1ba23-b310-4d0e-9add-72a5948f841d/d4fvrce-7966a410-898e-489d-a836-9dab7e84e8ff.gif"/><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34ce505e-bb08-436c-9116-f92a5f14df3b/d4ilw6o-fb0bab0b-8050-4fde-aa98-68f8d90d24b5.gif"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f2e1ba23-b310-4d0e-9add-72a5948f841d/d4fvrce-7966a410-898e-489d-a836-9dab7e84e8ff.gif"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34ce505e-bb08-436c-9116-f92a5f14df3b/d4ilw6o-fb0bab0b-8050-4fde-aa98-68f8d90d24b5.gif"/><br>
        💬 Ask me about ... Collaboration.
 </div>
 
-🌴🌳💎🍺 ⚖️🎓👨🏽‍💻  💻🦟 🦗 🌱☕️🍻 🕷 🕸  
+🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
 <!--
 **MistaKistHur/MistaKistHur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   Here are some ideas to get you started:
