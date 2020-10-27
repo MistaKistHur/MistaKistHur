@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👽☠️💀👻  ::>> Thanks for Stopping By.  
+
+<span>My Names Tao & I Live in Norwich in the United Kingdom.</span>
+
 
 <!--
 **MistaKistHur/MistaKistHur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
