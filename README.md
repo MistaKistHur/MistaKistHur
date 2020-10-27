@@ -1,6 +1,6 @@
 ### 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻  
 
-<span>My Names Tao & I Live in Norwich in the United Kingdom.</span>
+<span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
 <br>
 <span>I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
       Had Other interest's & different life circumstance back then<br>
@@ -9,18 +9,18 @@
       <br>
 </span>
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
-<span>
+<span align="center">
    Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
    in student loans associated with it, even though it would have been a good experience<br>
    Travelling was a whole experience in itself.<br>
         <br>
 </span> 
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
-<span>  
+<span align="center">  
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
   like to learn P5, D3, Gsap, Python & Ruby on Rails<br> 
 </span><br>
-<span>
+<span align="center">
   My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
   or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br> 
       Cornwall or Southampton Near Where my Family Are.<br>
