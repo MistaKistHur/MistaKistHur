@@ -11,7 +11,8 @@
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
       <br>
 </span>
-<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto"> 
+<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto">
+<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span align="center">
    Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
@@ -29,13 +30,14 @@
   or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br> 
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
-
+<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
 🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
 🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
 🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
 🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 <br>
+<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
       - 💬 Ask me about ... Collaboration.
 </div>
 
