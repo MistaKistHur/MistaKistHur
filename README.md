@@ -18,13 +18,13 @@
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
 <span>  
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
-  like to learn P5, D3, Gsap, Python & Ruby on Rails</span> 
-</span>
+  like to learn P5, D3, Gsap, Python & Ruby on Rails<br> 
+</span><br>
 <span>
   My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
   or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br> 
-      Cornwall or Southampton Near Where my Family Are.
-</span>
+      Cornwall or Southampton Near Where my Family Are.<br>
+</span><br>
 
 🌴🌳Facebook Page🌳🌴&nbsp&nbsp&nbsp=> 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳Facebook Group🌳🌴&nbsp&nbsp&nbsp=> 💎https://www.facebook.com/groups/art4coding.icu💎<br>
