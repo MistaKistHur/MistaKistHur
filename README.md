@@ -1,7 +1,7 @@
 ### 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻
 <div align="center">
-  
-![Html5&CssLogos](/Rsc/HtmlAndCssLogos.png){:height="50%" width="50%"}
+<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="65%" height="auto">  
+
 <span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
 <br>
 <span>I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
