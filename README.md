@@ -36,19 +36,20 @@
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
 
-<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
+<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
 🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
 🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
 🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
 🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
+<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
-      - 💬 Ask me about ... Collaboration.
+       💬 Ask me about ... Collaboration.
 </div>
 
-🌴🌳💎🍺 ⚖️🎓👨🏽‍💻  💻🦟 🦗 🕷 🕸 🌱☕️🍻  
+🌴🌳💎🍺 ⚖️🎓👨🏽‍💻  💻🦟 🦗 🌱☕️🍻 🕷 🕸  
 <!--
 **MistaKistHur/MistaKistHur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   Here are some ideas to get you started:
