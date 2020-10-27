@@ -7,19 +7,19 @@
       <img src="/Rsc/english.gif" alt="english flag">.United Kingdom.<img src="/Rsc/english.gif" alt="english flag">..</span>
 <br>
 <span>
-      I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
+      <i>I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
       Had Other interest's & different life circumstance back then<br>
       Tried to Get into University to Study Art Straight after college but didn't get Accepted<br>
-      So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
+      So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2</i><br>
       <br>
 </span>
 <img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto"><br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
       ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span align="center">
-      Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
+      Kind of glad that I did not get Accepted into University,<br><i>Because of the Huge ammount of debt
       in student loans associated with it, even though it would have been a good experience<br>
-      Travelling was a whole experience in itself.<br>
+      Travelling was a whole experience in itself.</i><br>
       <br>
 </span>
 <span>
