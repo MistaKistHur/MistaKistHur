@@ -35,12 +35,14 @@
   or Relocate somewhere inbetween Nottingham & Lancashire or Further South<br> 
       Cornwall or Southampton Near Where my Family Are.<br>
 </span><br>
+
 <img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
 🌴🌳My CodePen Acc.🌳🌴 => 💎https://codepen.io/MistaKisthur💎<br>
 🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
 🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
 🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
 <br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
       - 💬 Ask me about ... Collaboration.
