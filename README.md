@@ -1,9 +1,10 @@
 ###
 <div align="center">
       <h1> 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻</h1>
+      <img src="/Rsc/Pyramids.gif" alt="Flashing Pyramids Animated Gif"/>
  
-
-<span align="center">My Names Tao & I Live in Norwich in the <img src="/Rsc/english.gif" alt="english flag">.United Kingdom.<img src="/Rsc/english.gif" alt="english flag">..</span>
+<span align="center">My Names Tao & I Live in Norwich in the
+      <img src="/Rsc/english.gif" alt="english flag">.United Kingdom.<img src="/Rsc/english.gif" alt="english flag">..</span>
 <br>
 <span>
       I Learnt the Basics of Html & Css in College, But never really followed it up.<br>
