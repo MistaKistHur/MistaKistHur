@@ -1,6 +1,6 @@
 ### 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻
 <div align="center">
-<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="65%" height="auto">  
+<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto">  
 
 <span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
 <br>
