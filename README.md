@@ -12,7 +12,7 @@
       <br>
 </span>
 <img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto">
-<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
+<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span align="center">
    Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
@@ -37,7 +37,7 @@
 🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
 🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 <br>
-<img src="Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
+<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
       - 💬 Ask me about ... Collaboration.
 </div>
 
