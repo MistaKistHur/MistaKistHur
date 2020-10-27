@@ -60,8 +60,9 @@
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f2e1ba23-b310-4d0e-9add-72a5948f841d/d4fvrce-7966a410-898e-489d-a836-9dab7e84e8ff.gif"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34ce505e-bb08-436c-9116-f92a5f14df3b/d4ilw6o-fb0bab0b-8050-4fde-aa98-68f8d90d24b5.gif"/><br>
-       💬 Ask me about ... Collaboration.
-       📫 How to reach me ::>> You Can Message me on Facebook or Contact me on Linkdin.
+       💬 Ask me about ... Collaboration.<br>
+       📫 How to reach me ::>> You Can Message me on Facebook Through the Above Groups or Contact me on Linkedin.<br>
+       <a href="https://www.linkedin.com/in/tao-spencer-118a02182/">Tao Spencer on Linkedin</a>
 </div>
 
 🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
