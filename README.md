@@ -28,7 +28,8 @@
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/JWildFire.LaserArray54.png)  
 <span align="center">  
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
-  like to learn P5, D3, Gsap, Python & Ruby on Rails<br> 
+  like to learn P5, D3, Gsap, Python & Ruby on Rails<br>
+      <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />
 </span><br>
 <span align="center">
   My Main Goals for 2020/21 Are to try and Get off Benefits & Find a Job as a Developer, Either Remotely<br>
