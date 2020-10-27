@@ -30,7 +30,7 @@
   am Currently Trying to Learn Vanilla Javascript & Would Also<br>
   like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
 
-<img src="/Rsc/javascript-node-js.png" width="auto" height="128" alt="Node.js Icon Logo"/>&nbsp
+<img src="/Rsc/javascript-node-js.png" width="auto" height="128" alt="Node.js Icon Logo"/><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ed180b9b-84ae-4dc0-8bff-3d3a267ba0f0/d7wgczt-d5da379f-9054-41c9-9936-b4d65ff2fa4d.gif"/>
 <img src="https://greensock.com/uploads/set_resources_4/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" width="248" height="auto"/>&nbsp
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="auto" height="98"/>
 
