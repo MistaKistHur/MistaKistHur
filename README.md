@@ -41,8 +41,9 @@
 🌴🌳Facebook Page🌳🌴 => 💎https://www.facebook.com/OpenSourceProjectz💎<br>
 🌴🌳🌱Facebook Group🌱🌳🌴 => 💎https://www.facebook.com/groups/art4coding.icu💎<br>
 🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
-🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
 🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
+🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
