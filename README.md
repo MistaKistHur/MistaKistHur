@@ -1,6 +1,7 @@
-### 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻
+###
 <div align="center">
-<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto">  
+      <h1> 👽Hi there👽 ::>> Thanks for Stopping By. ☠️💀👻</h1>
+ 
 
 <span align="center">My Names Tao & I Live in Norwich in the United Kingdom.</span>
 <br>
@@ -10,6 +11,7 @@
       So Ended Up going Travelling instead, Visited The Philippines for 4 months & Thailand for 2<br>
       <br>
 </span>
+<img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto"> 
   ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
 <span align="center">
    Kind of glad that I did not get Accepted into University, Because of the Huge ammount of debt
