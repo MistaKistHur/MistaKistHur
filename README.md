@@ -14,8 +14,9 @@
       <br>
 </span>
 <img src="/Rsc/HtmlAndCssLogos.png" alt="Html5&CssLogos" width="44%" height="auto"><br>
-<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="98%" height="auto">
+<img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="64%" height="auto">
       ![GreenLightning Artwork By SquidCannonArmed on DevianArt](/Rsc/GreenLightningV2i.jpg)
+      <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <span align="center">
       Kind of glad that I did not get Accepted into University,<br><i>Because of the Huge ammount of debt
       in student loans associated with it, even though it would have been a good experience<br>
