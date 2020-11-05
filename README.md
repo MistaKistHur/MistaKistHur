@@ -54,6 +54,8 @@
      🌴🌳Secondary Facebook Group🌳🌴 => 💎https://www.facebook.com/groups/webdevskillshare💎<br>
      🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎https://stackoverflow.com/users/9706771/ryan-stone?tab=profile💎<br>
      🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎https://www.deviantart.com/shinobiwarriordance💎<br>
+     
+     Join Our Discord Server for Art4Coding => https://discord.gg/9NbYJSqfsy<br>
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
