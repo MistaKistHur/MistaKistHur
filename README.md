@@ -74,10 +74,10 @@
       💎💎<a href="https://discord.gg/9NbYJSqfsy">Discord Invite Link</a>💎💎<br></span>     
      
      🌴🌳My CodePen Acc.🌳🌴 => 💎<a href="https://codepen.io/MistaKisthur"
-                                       aria-label="Mister on Codepen Website"
-                                       >Mista on CodePen.io</a>💎<br><!-- data-type="url" content="index, follow"-->
+                                      >Mista on CodePen.io</a>💎<br>
+                              <!-- data-type="url" content="index, follow" aria-label="Mister on Codepen Website"-->
      🌴🌳Facebook Page🌳🌴 => 💎<a href="https://www.facebook.com/OpenSourceProjectz"
-                                     aria-label="Facebook OpenSource Projects"
+                                    aria-label="Facebook OpenSource Projects"
                                      data-type="url" content="index, follow">Facebook OpenSource Projects</a>💎<br>
      🌴🌳🌱Facebook Group🌱🌳🌴 => 💎<a href="https://www.facebook.com/groups/art4coding.icu"
                                            aria-label="Art4Coding.icu Website"
