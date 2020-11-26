@@ -107,36 +107,39 @@
       </a><br>
 🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
 <h3><b><i>Personal List of Developer Resources<br>That You might Find Usefull</i></b></h3>
-      <a href="" target="_blank">CodePen</a><br>
-      <a href="" target="_blank">StackOverflow</a><br>
-      <a href="" target="_blank">JSFiddle</a><br>
-      <a href="" target="_blank">Mozilla Developer Network</a><br>
-      <a href="" target="_blank">Css Tricks</a><br>
-      <a href="" target="_blank">Tech Sith</a><br>
-      <a href="" target="_blank">Travesy Media</a><br>
-      <a href="" target="_blank">Free CodeCamp.org</a><br>
-      <a href="" target="_blank">NetMatters</a><br>
-      <a href="" target="_blank">Mozilla Observatory</a><br>
-      <a href="" target="_blank">Html Validator</a><br>
-      <a href="" target="_blank">Json Validator</a><br>
-      <a href="" target="_blank">Sublime Text Editor</a><br>
-      <a href="" target="_blank">P5.js</a><br>
-      <a href="" target="_blank">D3.js</a>
-      <a href="" target="_blank">GreenSocks Animation Library</a><br>
-      <a href="" target="_blank">Code Review</a><br>
+      <a href="https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/async.md" target="_blank">Javascript Interview Questions</a><br>
+      <a href="https://codepen.io/#" target="_blank">CodePen</a><br>
+      <a href="https://codereview.stackexchange.com" target="_blank">Code Review</a><br>      
+      <a href="https://www.deviantart.com/shinobiwarriordance" target="_blank">DeviantArt</a><br>
+      <a href="https://www.traversymedia.com" target="_blank">Travesy Media</a><br>      
+      <a href="https://stackoverflow.com" target="_blank">StackOverflow</a><br>      
+      <a href="https://github.com/kubowania" target="_blank">Ania Kubow</a><br>      
+      <a href="https://www.freecodecamp.org" target="_blank">Free CodeCamp.org</a><br>
+      <a href="https://www.netmatters.co.uk" target="_blank">NetMatters</a><br>
+      <a href="https://jsfiddle.net" target="_blank">JSFiddle</a><br>
+      <a href="https://css-tricks.com" target="_blank">Css Tricks</a><br>
+      <a href="https://css-tricks.com/almanac" target="_blank">Css Tricks Coding Almanac</a>
+      <a href="https://jsonformatter.org/html-validator" target="_blank">Html Validator</a><br>
+      <a href="" target="_blank">Json Validator</a><br>      
+      <a href="" target="_blank">SearX Open Source</a><br>
+      <a href="" target="_blank">Brave Browser Open Source</a><br>
+      <a href="" target="_blank">Command & Conquer Open Source</a><br>
+      <a href="" target="_blank">Gimp Gnu Open Source</a><br>
       <a href="" target="_blank">W3c</a><br>
       <a href="" target="_blank">W3Schools</a><br>
       <a href="" target="_blank">TreeHouse</a><br>
       <a href="" target="_blank">Dev.to</a><br>
       <a href="" target="_blank">Blender</a><br>
-      <a href="" target="_blank">SearX Open Source</a><br>
-      <a href="" target="_blank">Brave Browser Open Source</a><br>
-      <a href="" target="_blank">Command & Conquer Open Source</a><br>
-      <a href="" target="_blank">Gimp Gnu Open Source</a><br>
-      <a href="" target="_blank">Hyper Cmd Github</a><br>
       <a href="" target="_blank">Obs Studio</a><br>
-      <a href="" target="_blank">Discord</a><br>
-      <a href="" target="_blank">DeviantArt</a><br>
+      <a href="" target="_blank">Discord</a><br>      
+      <a href="" target="_blank">Hyper Cmd Github</a><br>
+      <a href="" target="_blank">Sublime Text Editor</a><br>      
+      <a href="" target="_blank">Mozilla Observatory</a><br>
+      <a href="" target="_blank">Mozilla Developer Network</a><br>
+      <a href="" target="_blank">GreenSocks Animation Library</a><br>
+      <a href="" target="_blank">Tech Sith</a><br> 
+      <a href="" target="_blank">P5.js</a><br>
+      <a href="" target="_blank">D3.js</a>
       <a href="" target="_blank">x</a><br>
       <a href="" target="_blank">x</a><br>
       <a href="" target="_blank">x</a><br>
@@ -147,8 +150,7 @@
       <a href="" target="_blank">x</a><br>
       <a href="" target="_blank">x</a><br>
       <a href="" target="_blank">x</a><br>
-      <a href="" target="_blank">x</a><br>
-
+      <a href="" target="_blank">x</a><br>      
 </div>   <!-- ::>> Centered content -->
          <!-- ::>  Personal notes::
 
