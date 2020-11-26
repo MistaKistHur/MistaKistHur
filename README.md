@@ -72,23 +72,23 @@
      width="98%" height="auto">
      🌴🌳My CodePen Acc.🌳🌴 => 💎<a href="https://codepen.io/MistaKisthur"
                                        aria-label="Mister on Codepen Website"
-                                       data-type="url" content="index, follow"></a>💎<br>
+                                       data-type="url" content="index, follow">Mista on CodePen.io</a>💎<br>
      🌴🌳Facebook Page🌳🌴 => 💎<a href="https://www.facebook.com/OpenSourceProjectz"
                                      aria-label="Facebook OpenSource Projects"
-                                     data-type="url" content="index, follow"></a>💎<br>
+                                     data-type="url" content="index, follow">Facebook OpenSource Projects</a>💎<br>
      🌴🌳🌱Facebook Group🌱🌳🌴 => 💎<a href="https://www.facebook.com/groups/art4coding.icu💎"
                                            aria-label="Art4Coding.icu Website"
-                                           data-type="url" content="index, follow"></a><br>
+                                           data-type="url" content="index, follow">Art4Coding.icu Website</a><br>
      🌴🌳Secondary Facebook Group🌳🌴 => 💎<a href="https://www.facebook.com/groups/webdevskillshare💎"
                                                 aria-label="DevSkillShare Facebook group"
-                                                data-type="url" content="index, follow"></a><br>
+                                                data-type="url" content="index, follow">DevSkillShare Facebook Group</a><br>
      🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎<a href="https://stackoverflow.com/users/9706771/ryan-stone?tab=profile"
                                                      aria-label="Ryans Profile on Stack Overflow"
-                                                     data-type="url" content="index, follow"></a>💎<br>
+                                                     data-type="url" content="index, follow">Ryans StackOverflow Profile</a>💎<br>
      🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎<a href="https://www.deviantart.com/squidcannonarmed"
                                                   aria-label="Squid Cannon Armed Profile on DeviantArt external website"
-                                                  data-type="url" content="index, follow"></a>💎<br>
-     <span>Join Our Discord Server for Art4Coding => <a href="https://discord.gg/9NbYJSqfsy"></a><br></span>
+                                                  data-type="url" content="index, follow">SquidCannonArmed Profile On DeviantArt</a>💎<br>
+     <span>Join Our Discord Server for Art4Coding => <a href="https://discord.gg/9NbYJSqfsy">Discord Invite Link</a><br></span>
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
