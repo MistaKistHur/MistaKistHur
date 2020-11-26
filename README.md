@@ -106,6 +106,49 @@
             <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" aria-label="" width="auto" height="32px">
       </a><br>
 🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
+<h3><b><i>Personal List of Developer Resources<br>That You might Find Usefull</i></b></h3>
+      <a href="" target="_blank">CodePen</a><br>
+      <a href="" target="_blank">StackOverflow</a><br>
+      <a href="" target="_blank">JSFiddle</a><br>
+      <a href="" target="_blank">Mozilla Developer Network</a><br>
+      <a href="" target="_blank">Css Tricks</a><br>
+      <a href="" target="_blank">Tech Sith</a><br>
+      <a href="" target="_blank">Travesy Media</a><br>
+      <a href="" target="_blank">Free CodeCamp.org</a><br>
+      <a href="" target="_blank">NetMatters</a><br>
+      <a href="" target="_blank">Mozilla Observatory</a><br>
+      <a href="" target="_blank">Html Validator</a><br>
+      <a href="" target="_blank">Json Validator</a><br>
+      <a href="" target="_blank">Sublime Text Editor</a><br>
+      <a href="" target="_blank">P5.js</a><br>
+      <a href="" target="_blank">D3.js</a>
+      <a href="" target="_blank">GreenSocks Animation Library</a><br>
+      <a href="" target="_blank">Code Review</a><br>
+      <a href="" target="_blank">W3c</a><br>
+      <a href="" target="_blank">W3Schools</a><br>
+      <a href="" target="_blank">TreeHouse</a><br>
+      <a href="" target="_blank">Dev.to</a><br>
+      <a href="" target="_blank">Blender</a><br>
+      <a href="" target="_blank">SearX Open Source</a><br>
+      <a href="" target="_blank">Brave Browser Open Source</a><br>
+      <a href="" target="_blank">Command & Conquer Open Source</a><br>
+      <a href="" target="_blank">Gimp Gnu Open Source</a><br>
+      <a href="" target="_blank">Hyper Cmd Github</a><br>
+      <a href="" target="_blank">Obs Studio</a><br>
+      <a href="" target="_blank">Discord</a><br>
+      <a href="" target="_blank">DeviantArt</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+      <a href="" target="_blank">x</a><br>
+
 </div>   <!-- ::>> Centered content -->
          <!-- ::>  Personal notes::
 
