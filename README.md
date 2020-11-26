@@ -75,7 +75,7 @@
      
      🌴🌳My CodePen Acc.🌳🌴 => 💎<a href="https://codepen.io/MistaKisthur"
                                        aria-label="Mister on Codepen Website"
-                                       data-type="url" content="index, follow">Mista on CodePen.io</a>💎<br>
+                                       >Mista on CodePen.io</a>💎<br><!-- data-type="url" content="index, follow"-->
      🌴🌳Facebook Page🌳🌴 => 💎<a href="https://www.facebook.com/OpenSourceProjectz"
                                      aria-label="Facebook OpenSource Projects"
                                      data-type="url" content="index, follow">Facebook OpenSource Projects</a>💎<br>
