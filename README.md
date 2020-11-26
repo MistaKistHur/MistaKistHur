@@ -72,7 +72,6 @@
      width="98%" height="auto">
      🌴🌳<span>Join Our Discord Server for Art4Coding🌳🌴 =>
       💎💎<a href="https://discord.gg/9NbYJSqfsy">Discord Invite Link</a>💎💎<br></span>     
-     
      🌴🌳My CodePen Acc.🌳🌴 => 💎<a href="https://codepen.io/MistaKisthur"
                                       >Mista on CodePen.io</a>💎<br>
                               <!-- data-type="url" content="index, follow" aria-label="Mister on Codepen Website"-->
@@ -104,7 +103,7 @@
       <a href="https://www.linkedin.com/in/tao-spencer-118a02182/">Tao Spencer on Linkedin</a><br>
       <a href="https://www.facebook.com/profile.php?id=100011195530254" target="_blank">
             <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" aria-label="" width="auto" height="32px">
-      </a>
+      </a><br>
 🌴🌳💎🍺⚖️🎓👨🏽‍💻💻🦟🦗🌱☕️🍻🕷🕸
 </div>   <!-- ::>> Centered content -->
          <!-- ::>  Personal notes::
