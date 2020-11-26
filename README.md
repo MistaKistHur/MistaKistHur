@@ -70,25 +70,28 @@
      width="114px" height="auto">
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator"
      width="98%" height="auto">
+     🌴🌳<span>Join Our Discord Server for Art4Coding🌳🌴 =>
+      💎💎<a href="https://discord.gg/9NbYJSqfsy">Discord Invite Link</a>💎💎<br></span>     
+     
      🌴🌳My CodePen Acc.🌳🌴 => 💎<a href="https://codepen.io/MistaKisthur"
                                        aria-label="Mister on Codepen Website"
                                        data-type="url" content="index, follow">Mista on CodePen.io</a>💎<br>
      🌴🌳Facebook Page🌳🌴 => 💎<a href="https://www.facebook.com/OpenSourceProjectz"
                                      aria-label="Facebook OpenSource Projects"
                                      data-type="url" content="index, follow">Facebook OpenSource Projects</a>💎<br>
-     🌴🌳🌱Facebook Group🌱🌳🌴 => 💎<a href="https://www.facebook.com/groups/art4coding.icu💎"
+     🌴🌳🌱Facebook Group🌱🌳🌴 => 💎<a href="https://www.facebook.com/groups/art4coding.icu"
                                            aria-label="Art4Coding.icu Website"
-                                           data-type="url" content="index, follow">Art4Coding.icu Website</a><br>
-     🌴🌳Secondary Facebook Group🌳🌴 => 💎<a href="https://www.facebook.com/groups/webdevskillshare💎"
+                                           data-type="url" content="index, follow">Art4Coding.icu Website</a>💎<br>
+     🌴🌳Secondary Facebook Group🌳🌴 => 💎<a href="https://www.facebook.com/groups/webdevskillshare"
                                                 aria-label="DevSkillShare Facebook group"
-                                                data-type="url" content="index, follow">DevSkillShare Facebook Group</a><br>
+                                                data-type="url" content="index, follow">DevSkillShare Facebook Group</a>💎<br>
      🌴🌳🌱My StackOverflow Profile🌱🌳🌴 => 💎<a href="https://stackoverflow.com/users/9706771/ryan-stone?tab=profile"
                                                      aria-label="Ryans Profile on Stack Overflow"
                                                      data-type="url" content="index, follow">Ryans StackOverflow Profile</a>💎<br>
      🌴🌳🌱My DeviantArt Account🌱🌳🌴 => 💎<a href="https://www.deviantart.com/squidcannonarmed"
                                                   aria-label="Squid Cannon Armed Profile on DeviantArt external website"
                                                   data-type="url" content="index, follow">SquidCannonArmed Profile On DeviantArt</a>💎<br>
-     <span>Join Our Discord Server for Art4Coding => <a href="https://discord.gg/9NbYJSqfsy">Discord Invite Link</a><br></span>
+
 
 <img src="/Rsc/Hue-Bar.jpg" alt="Formatting Style Content seperator" width="100%" height="auto">
 <br>
@@ -98,7 +101,7 @@
        💬 Ask me about ... Collaboration.<br>
        📫 How to reach me ::
            You Can Message me on Facebook Through the Above Groups<br>or Contact me on Linkedin.<br>
-      <a href="https://www.linkedin.com/in/tao-spencer-118a02182/">Tao Spencer on Linkedin</a>
+      <a href="https://www.linkedin.com/in/tao-spencer-118a02182/">Tao Spencer on Linkedin</a><br>
       <a href="https://www.facebook.com/profile.php?id=100011195530254" target="_blank">
             <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" aria-label="" width="auto" height="32px">
       </a>
