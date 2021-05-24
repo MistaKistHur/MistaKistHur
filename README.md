@@ -47,6 +47,10 @@
 <span align="center" aria-label="more information">
       am Currently Trying to Learn Vanilla Javascript & Would Also<br>
       like to learn Node.js, P5, D3, Gsap, Python & Ruby<br>
+<br/>
+      Join our group chat on Telegram here =>
+      @NativeAlienNation or NaN
+      https://t.me/joinchat/lVgunCREu-Q1NmU0
 
 <img src="/Rsc/javascript-node-js.png" width="auto" height="128"
      name="" alt="Node.js Icon Logo" aria-label="Node.js Icon Logo" content="noindex, nofollow"/>
